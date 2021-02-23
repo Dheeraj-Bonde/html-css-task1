@@ -1,0 +1,29 @@
+.heading{
+    background-color: maroon;
+    color : white;
+    text-align: center;
+}
+div{
+    background-color: rgb(255, 242, 166);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+blue{
+    color : darkblue;
+}
+ast{
+    color : red;
+}
+table, td{
+    border : 1px solid;
+    border-collapse: collapse;
+}
+.container{
+    display: flex;
+    padding-right: 10rem;
+    align-content:space-between;
+    justify-content:space-between;
+    flex-flow: row;
+}
+.upload{
+    border : none;
+}
